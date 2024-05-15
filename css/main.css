@@ -1,0 +1,14 @@
+header{
+
+    background-color: green;
+    padding-top: 25px;
+}
+
+div{
+
+    border-style: solid;
+    border-radius: 15px;
+    border-color: green;
+    display: inline;
+
+}
